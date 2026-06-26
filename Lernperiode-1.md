@@ -1,0 +1,20 @@
+# Lern-Periode 1
+
+- Name: Arlind Ismaili
+- Zeitraum: 14.08.2026 bis 25.09.2026
+
+## Grob-Planung
+
+### Noten
+Ich stehe gerade in einem 5.5 Durchschnitt in Informatik. Im Modul 106 und 117 ich letztes Jahr mit einer 6 am stärksten. Am Schwächsten war ich im Modul 187 mit einer Note von 4.5.
+
+### Veränderungen
+Ich möchte meine Reflexionen für die ILA besser schreiben und strukturieren.
+
+### Projekte / neue Technologien
+Ich möchte lernen, wie man Systeme besser schützt, zum Beispiel wie sichere Passwörter funktionieren, was Phishing ist und wie man Schwachstellen erkennt, also so zum Thema Cybersecurity.
+
+### Generelle Ziele
+Ich möchte mindestens 2 neue Programme oder Tools kennenlernen und kurz erklären können, wofür man sie benutzt.
+Ich möchte bei mindestens 3 Aufgaben zuerst selbst eine Lösung versuchen, bevor ich Hilfe frage.
+## Tagesplanungen
