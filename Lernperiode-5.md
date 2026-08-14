@@ -22,9 +22,9 @@ Ich möchte bei mindestens 3 Aufgaben zuerst selbst eine Lösung versuchen, bevo
 ### Planung 16.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Ideen für ein neues Projekt sammeln, der bis ende der Lernperiode lang geht
-- [ ] ...
-- [X] Viertes AP
+- [ ] Ideen für ein neues Projekt sammeln, das bis ende der Lernperiode lang geht
+- [ ] ca. 1 einbisschen mit dem Programmieren reinkommen, also in C#, Python und HTML
+- [ ] Projekt beginnen und ca. 2 daran arbeiten
 
 (Heute habe ich... (50-100 Wörter))
 
