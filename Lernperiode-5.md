@@ -1,4 +1,4 @@
-# Lern-Periode 5
+# LernPeriode-5
 
 - Name: Arlind Ismaili
 - Zeitraum: 14.08.2026 bis 25.09.2026
