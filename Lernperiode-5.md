@@ -26,7 +26,9 @@ Ich möchte bei mindestens 3 Aufgaben zuerst selbst eine Lösung versuchen, bevo
 - [ ] ca. 1 einbisschen mit dem Programmieren reinkommen, also in C#, Python und HTML
 - [ ] Projekt beginnen und ca. 2 daran arbeiten
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich meine Idee für mein neues Projekt gefunden, und zwar ein Dungeon Game mit C# programmiert.
+Ich habe heute schon mit den Spieler und Figuren in meinem Programm angefangen. 
+Am Ende will ich ein 2D Game mit diesem Programm entwickeln.
 
 ### Planung 21.08.2026
 3 bis 5 klar messbare Arbeitspakete.
