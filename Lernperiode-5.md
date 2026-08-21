@@ -22,9 +22,9 @@ Ich möchte bei mindestens 3 Aufgaben zuerst selbst eine Lösung versuchen, bevo
 ### Planung 14.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Ideen für ein neues Projekt sammeln, das bis ende der Lernperiode lang geht
-- [ ] ca. 1 einbisschen mit dem Programmieren reinkommen, also in C#, Python und HTML
-- [ ] Projekt beginnen und ca. 2 daran arbeiten
+- [x] Ideen für ein neues Projekt sammeln, das bis ende der Lernperiode lang geht
+- [x] ca. 1 einbisschen mit dem Programmieren reinkommen, also in C#, Python und HTML
+- [x] Projekt beginnen und ca. 2h daran arbeiten
 
 Heute habe ich meine Idee für mein neues Projekt gefunden, und zwar ein Dungeon Game mit C# programmiert.
 Ich habe heute schon mit den Spieler und Figuren in meinem Programm angefangen. 
@@ -33,9 +33,9 @@ Am Ende will ich ein 2D Game mit diesem Programm entwickeln.
 ### Planung 21.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Die Spieler und die Gegner heute programmieren
+- [ ] meine eigene Anforderungen am Anfang erstellen
+- [ ] mind. 5 neue Commands auf C# lernen
 
 (Heute habe ich... (50-100 Wörter))
 
