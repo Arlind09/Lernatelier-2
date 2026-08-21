@@ -19,7 +19,7 @@ Ich möchte mindestens 2 neue Programme oder Tools kennenlernen und kurz erklär
 Ich möchte bei mindestens 3 Aufgaben zuerst selbst eine Lösung versuchen, bevor ich Hilfe frage.
 ## Tagesplanungen
 
-### Planung 16.08.2026
+### Planung 14.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
 - [ ] Ideen für ein neues Projekt sammeln, das bis ende der Lernperiode lang geht
