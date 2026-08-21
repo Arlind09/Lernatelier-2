@@ -33,11 +33,11 @@ Am Ende will ich ein 2D Game mit diesem Programm entwickeln.
 ### Planung 21.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Die Spieler und die Gegner heute programmieren
-- [ ] meine eigene Anforderungen am Anfang erstellen
-- [ ] mind. 5 neue Commands auf C# lernen
+- [x] Die Spieler und die Gegner heute programmieren
+- [x] meine eigene Anforderungen am Anfang erstellen
+- [x] mind. 5 neue Commands auf C# lernen
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich viele neue Gegner programmiert und dazu habe ich XP, Levels, Gold und neue Waffen in das Spiel eingebaut. Jeder Gegner gibt dir nach jedem Gewinn ein paar XP Punkte und Gold Münze. Das Leben von den Spieler wird auch nach jedem Level-Upgrade gestiegen. Bald kann ich schon mit dem 2D Game auf Unity Hub anfangen.
 
 ### Planung 04.09.2026
 3 bis 5 klar messbare Arbeitspakete.
