@@ -39,13 +39,23 @@ Am Ende will ich ein 2D Game mit diesem Programm entwickeln.
 
 Heute habe ich viele neue Gegner programmiert und dazu habe ich XP, Levels, Gold und neue Waffen in das Spiel eingebaut. Jeder Gegner gibt dir nach jedem Gewinn ein paar XP Punkte und Gold Münze. Das Leben von den Spieler wird auch nach jedem Level-Upgrade gestiegen. Bald kann ich schon mit dem 2D Game auf Unity Hub anfangen.
 
-### Planung 04.09.2026
+### Planung 28.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
 - [x] Mein C# Programm noch ein bisschen verfeinern, also 2-3 Funktionen noch hinzufügen, wie zum Beispiel einen Spielername hinzufügen und Heiltrank hinzufügen.
 - [x] einen Einstieg ins Unity Hub machen, also alle Tutorials und Anleitungen für 1-2 Stunden anschauen und alle wichtige Punkte zusammenfassen.
 - [X] Am Ende in Unity Hub herum experimentieren und ein 1-2 Beispiele von den Tutorials für Anfänger nachmachen und verstehen.
 Heute habe ich die eigenen Spielername in Code hinzugefügt und danach bin ich schon in Unity Hub reingestartet. Ich habe die meisten Tutorials auf Unity Hub durchgeschaut und ich habe auch auf Youtube weitere Tutorials gesucht, wie ich mit dem Programmieren anfangen kann. Aber ich komme noch nicht komplett mit Unity Hub draus.
+
+### Planung 04.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] Mich in Unity besser zurechtfinden und mindestens 5 wichtige Bereiche kennenlernen, z. B. Scene, Game, Hierarchy, Inspector und Project.
+- [ ] Ein neues 2D-Unity-Projekt für mein Dungeon-Spiel erstellen und eine erste einfache Szene einrichten.
+- [ ] Einen einfachen Spieler als 2D-Objekt erstellen und ihn mit mindestens 4 Tasten (WASD) bewegen können.
+- [ ] Am Ende testen, ob das Projekt ohne Fehler startet, und 3 wichtige Erkenntnisse oder Probleme für mein Lernjournal notieren.
+
+(Heute habe ich... (50-100 Wörter))
 
 ### Planung 11.09.2026
 3 bis 5 klar messbare Arbeitspakete.
@@ -57,15 +67,6 @@ Heute habe ich die eigenen Spielername in Code hinzugefügt und danach bin ich s
 (Heute habe ich... (50-100 Wörter))
 
 ### Planung 18.09.2026
-3 bis 5 klar messbare Arbeitspakete.
-
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
-
-(Heute habe ich... (50-100 Wörter))
-
-### Planung 25.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
 - [ ] Erstes Arbeitspaket
