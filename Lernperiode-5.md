@@ -42,11 +42,10 @@ Heute habe ich viele neue Gegner programmiert und dazu habe ich XP, Levels, Gold
 ### Planung 04.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
-
-(Heute habe ich... (50-100 Wörter))
+- [x] Mein C# Programm noch ein bisschen verfeinern, also 2-3 Funktionen noch hinzufügen, wie zum Beispiel einen Spielername hinzufügen und Heiltrank hinzufügen.
+- [x] einen Einstieg ins Unity Hub machen, also alle Tutorials und Anleitungen für 1-2 Stunden anschauen und alle wichtige Punkte zusammenfassen.
+- [X] Am Ende in Unity Hub herum experimentieren und ein 1-2 Beispiele von den Tutorials für Anfänger nachmachen und verstehen.
+Heute habe ich die eigenen Spielername in Code hinzugefügt und danach bin ich schon in Unity Hub reingestartet. Ich habe die meisten Tutorials auf Unity Hub durchgeschaut und ich habe auch auf Youtube weitere Tutorials gesucht, wie ich mit dem Programmieren anfangen kann. Aber ich komme noch nicht komplett mit Unity Hub draus.
 
 ### Planung 11.09.2026
 3 bis 5 klar messbare Arbeitspakete.
