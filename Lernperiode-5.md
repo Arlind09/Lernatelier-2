@@ -51,19 +51,19 @@ Heute habe ich die eigenen Spielername in Code hinzugefügt und danach bin ich s
 ### Planung 04.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Mich in Unity besser zurechtfinden und mindestens 5 wichtige Bereiche kennenlernen, z. B. Scene, Game, Hierarchy, Inspector und Project.
-- [ ] Ein neues 2D-Unity-Projekt für mein Dungeon-Spiel erstellen und eine erste einfache Szene einrichten.
-- [ ] Einen einfachen Spieler als 2D-Objekt erstellen und ihn mit mindestens 4 Tasten (WASD) bewegen können.
-- [ ] Am Ende testen, ob das Projekt ohne Fehler startet, und 3 wichtige Erkenntnisse oder Probleme für mein Lernjournal notieren.
+- [x] Mich in Unity besser zurechtfinden und mindestens 5 wichtige Bereiche kennenlernen, z. B. Scene, Game, Hierarchy, Inspector und Project.
+- [x] Ein neues 2D-Unity-Projekt für mein Dungeon-Spiel erstellen und eine erste einfache Szene einrichten.
+- [x] Einen einfachen Spieler als 2D-Objekt erstellen und ihn mit mindestens 4 Tasten (WASD) bewegen können.
+- [x] Am Ende testen, ob das Projekt ohne Fehler startet, und 3 wichtige Erkenntnisse oder Probleme für mein Lernjournal notieren.
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich mein erstes 2D-Projekt erstellt und mich mit der Hierarchy und dem Inspector vertraut gemacht. Für meinen Spieler habe ich ein 2D-Objekt erstellt, ein C# Script hinzugefügt und darin die WASD Tasten für die Bewegung programmiert. Danach habe ich die Bewegung direkt in Unity getestet. Am Anfang habe ich noch mit den Tutorials ein flying bird mini Spiel programmiert. Am Ende konnte ich mein Spieler auch endlich bewegen nachdem ich es mindestens 10 mal ausprobiert habe.
 
 ### Planung 11.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Eine Kamera erstellen, die meinem Spieler automatisch folgt, und testen, ob sie beim Bewegen mit WASD mitgeht.
+- [ ] Eine einfache Dungeon-Map mit mindestens 4 Wänden/Hindernissen erstellen und verhindern, dass der Spieler durch     diese hindurchlaufen kann.
+- [ ] Einen ersten Gegner als 2D-Objekt hinzufügen und programmieren, dass er sich automatisch auf meinen Spieler zubewegt.
 
 (Heute habe ich... (50-100 Wörter))
 
