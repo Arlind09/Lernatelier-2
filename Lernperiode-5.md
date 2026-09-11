@@ -75,3 +75,13 @@ Heute habe ich die Kamera so eingerichtet, dass sie dem Spieler sauber folgt, oh
 - [ ] Einen einfachen Raum mit mindestens einer Tür oder einem Ausgang erstellen, durch den der Spieler in den nächsten Bereich gelangen kann.
 
 (Heute habe ich... (50-100 Wörter))
+
+
+### Planung 25.09.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [ ] Einen ersten Gegner als 2D-Objekt hinzufügen und programmieren, dass er sich automatisch auf den Spieler zubewegt.
+- [ ] Dem Gegner und dem Spieler jeweils Lebenspunkte geben und testen, ob bei einer Berührung Schaden abgezogen wird.
+- [ ] Einen einfachen Raum mit mindestens einer Tür oder einem Ausgang erstellen, durch den der Spieler in den nächsten Bereich gelangen kann.
+
+(Heute habe ich... (50-100 Wörter))
