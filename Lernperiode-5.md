@@ -61,17 +61,17 @@ Heute habe ich mein erstes 2D-Projekt erstellt und mich mit der Hierarchy und de
 ### Planung 11.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Eine Kamera erstellen, die meinem Spieler automatisch folgt, und testen, ob sie beim Bewegen mit WASD mitgeht.
-- [ ] Eine einfache Dungeon-Map mit mindestens 4 Wänden/Hindernissen erstellen und verhindern, dass der Spieler durch     diese hindurchlaufen kann.
+- [x] Eine Kamera erstellen, die meinem Spieler automatisch folgt, und testen, ob sie beim Bewegen mit WASD mitgeht.
+- [x] Eine einfache Dungeon-Map mit mindestens 4 Wänden/Hindernissen erstellen und verhindern, dass der Spieler durch     diese hindurchlaufen kann.
 - [ ] Einen ersten Gegner als 2D-Objekt hinzufügen und programmieren, dass er sich automatisch auf meinen Spieler zubewegt.
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich die Kamera so eingerichtet, dass sie dem Spieler sauber folgt, ohne dabei zu stark zu ruckeln. Dafür musste ich die Position der Kamera mehrmals anpassen und testen, bis die Bewegung mit WASD passend aussah. Danach habe ich meine Dungeon Map mit Wänden aufgebaut und Collider hinzugefügt. Anfangs konnte mein Spieler teilweise noch durch Hindernisse laufen, aber nach dem Anpassen der Collider hat die Kollision funktioniert. Für den Gegner hat die Zeit heute nicht mehr gereicht, aber dafür habe ich in der OOP-Session auf C# mitgemacht.
 
 ### Planung 18.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Einen ersten Gegner als 2D-Objekt hinzufügen und programmieren, dass er sich automatisch auf den Spieler zubewegt.
+- [ ] Dem Gegner und dem Spieler jeweils Lebenspunkte geben und testen, ob bei einer Berührung Schaden abgezogen wird.
+- [ ] Einen einfachen Raum mit mindestens einer Tür oder einem Ausgang erstellen, durch den der Spieler in den nächsten Bereich gelangen kann.
 
 (Heute habe ich... (50-100 Wörter))
