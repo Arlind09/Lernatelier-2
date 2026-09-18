@@ -70,18 +70,19 @@ Heute habe ich die Kamera so eingerichtet, dass sie dem Spieler sauber folgt, oh
 ### Planung 18.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Einen ersten Gegner als 2D-Objekt hinzufügen und programmieren, dass er sich automatisch auf den Spieler zubewegt.
-- [ ] Dem Gegner und dem Spieler jeweils Lebenspunkte geben und testen, ob bei einer Berührung Schaden abgezogen wird.
-- [ ] Einen einfachen Raum mit mindestens einer Tür oder einem Ausgang erstellen, durch den der Spieler in den nächsten Bereich gelangen kann.
+- [x] Einen ersten Gegner als 2D-Objekt hinzufügen und programmieren, dass er sich automatisch auf den Spieler zubewegt.
+- [x] Dem Gegner und dem Spieler jeweils Lebenspunkte geben und testen, ob bei einer Berührung Schaden abgezogen wird.
+- [x] Einen einfachen Raum mit mindestens einer Tür oder einem Ausgang erstellen, durch den der Spieler in den nächsten Bereich gelangen kann.
 
-(Heute habe ich... (50-100 Wörter))
+Heute habe ich zuerst einen Gegner als 2D-Objekt erstellt und mit einem C#-Script programmiert, dass er dem Spieler folgt.
+Danach habe ich Lebenspunkte und Schaden bei Berührung eingebaut. Anschliessend habe ich einen Raum mit einem Ausgang erstellt.
+Die Umsetzung lief insgesamt gut, jedoch musste ich einige Funktionen mehrmals testen und anpassen, bis sie richtig funktioniert haben.
 
 
 ### Planung 25.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Einen ersten Gegner als 2D-Objekt hinzufügen und programmieren, dass er sich automatisch auf den Spieler zubewegt.
-- [ ] Dem Gegner und dem Spieler jeweils Lebenspunkte geben und testen, ob bei einer Berührung Schaden abgezogen wird.
-- [ ] Einen einfachen Raum mit mindestens einer Tür oder einem Ausgang erstellen, durch den der Spieler in den nächsten Bereich gelangen kann.
-
+- [ ] Eine Angriffsfunktion für den Spieler erstellen, mit der er per Tastendruck den Gegner angreifen und ihm Schaden zufügen kann.
+- [ ] Eine Lebensanzeige für Spieler und Gegner erstellen, damit die aktuellen Lebenspunkte während des Spiels sichtbar sind.
+- [ ] Programmieren, dass ein Gegner verschwindet, sobald seine Lebenspunkte 0 erreichen, und dies mit mindestens einem Gegner testen.
 (Heute habe ich... (50-100 Wörter))
