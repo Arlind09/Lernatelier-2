@@ -87,3 +87,8 @@ Die Umsetzung lief insgesamt gut, jedoch musste ich einige Funktionen mehrmals t
 - [x] Programmieren, dass ein Gegner verschwindet, sobald seine Lebenspunkte 0 erreichen, und dies mit mindestens einem Gegner testen.
 
 Heute habe ich eine Angriffsfunktion eingebaut, mit der der Spieler per Tastendruck Schaden verursacht. Danach habe ich eine Lebensanzeige erstellt, damit die HP von Spieler und Gegner sichtbar sind. Mit der Collision Detection habe ich geprüft, wann sich Spieler und Gegner treffen. Ausserdem wird der Gegner bei 0 HP aus der Szene entfernt. Beim Testen habe ich gemerkt, dass es wichtig ist, Schaden und Lebenspunkte aufeinander abzustimmen, damit die Kämpfe nicht zu schnell vorbei sind.
+
+
+
+### Lernperiode Reflexion
+In dieser Lernperiode habe ich gemerkt, dass ich beim Programmieren vor allem durch Ausprobieren, Fehler machen und erneutes Testen lerne. Das habe ich besonders bei Unity gemerkt, weil am Anfang selbst die WASD-Bewegung nicht direkt funktioniert hat. Später konnte ich schwierigere Sachen wie Collider, Collision Detection, Gegnerbewegung und ein Kampfsystem umsetzen. Ich bin dadurch selbständiger geworden und versuche bei Problemen zuerst selbst eine Lösung zu finden. Nicht alles hat immer nach Plan funktioniert, zum Beispiel konnte ich den Gegner an einem Tag aus Zeitgründen nicht fertigstellen. Ich konnte die Aufgabe aber beim nächsten Mal nachholen. Bei meinen Reflexionen möchte ich weiterhin genauer beschreiben, was nicht funktioniert hat, wie ich es gelöst habe und was ich daraus gelernt habe.
