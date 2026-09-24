@@ -82,7 +82,8 @@ Die Umsetzung lief insgesamt gut, jedoch musste ich einige Funktionen mehrmals t
 ### Planung 25.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Eine Angriffsfunktion für den Spieler erstellen, mit der er per Tastendruck den Gegner angreifen und ihm Schaden zufügen kann.
-- [ ] Eine Lebensanzeige für Spieler und Gegner erstellen, damit die aktuellen Lebenspunkte während des Spiels sichtbar sind.
-- [ ] Programmieren, dass ein Gegner verschwindet, sobald seine Lebenspunkte 0 erreichen, und dies mit mindestens einem Gegner testen.
-(Heute habe ich... (50-100 Wörter))
+- [x] Eine Angriffsfunktion für den Spieler erstellen, mit der er per Tastendruck den Gegner angreifen und ihm Schaden zufügen kann.
+- [x] Eine Lebensanzeige für Spieler und Gegner erstellen, damit die aktuellen Lebenspunkte während des Spiels sichtbar sind.
+- [x] Programmieren, dass ein Gegner verschwindet, sobald seine Lebenspunkte 0 erreichen, und dies mit mindestens einem Gegner testen.
+
+Heute habe ich eine Angriffsfunktion eingebaut, mit der der Spieler per Tastendruck Schaden verursacht. Danach habe ich eine Lebensanzeige erstellt, damit die HP von Spieler und Gegner sichtbar sind. Mit der Collision Detection habe ich geprüft, wann sich Spieler und Gegner treffen. Ausserdem wird der Gegner bei 0 HP aus der Szene entfernt. Beim Testen habe ich gemerkt, dass es wichtig ist, Schaden und Lebenspunkte aufeinander abzustimmen, damit die Kämpfe nicht zu schnell vorbei sind.
