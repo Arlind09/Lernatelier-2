@@ -32,6 +32,18 @@ Ich fange in dieser Lernperiode mit dem SQL-Projekt an.
 ## Tagesplanungen
 
 
+### Planung 06.11.2026
+
+
+- [x] SQL Studio herunterladen und einrichten
+- [x] Die ersten schritte für SQL Tutorials schauen und die ersten wichtigen Commands lernen und verstehen
+- [x] Python grundkurs starten und die ersten aufgaben erledigen
+
+
+#### Tagesreflexion
+Heute habe ich entschieden, einen Projekt mit Datenbanken angefangen, die auf SQL gemacht werden. Zuerst musste ich den SQLMSM wieder einrichten damit ich dort arbeiten kann. Ich musste wieder reinkommen, wie man SQL verwendet, bzw. die Commands und die Funktionen. Danach habe ich auch schon mit einem anfachen Python-Kurs gestartet. Python werde ich gebrauchen, damit ich meinen zukünftigen Progamm steuern kann und SQL die Daten liest und speichert. Nächstes mal werde ich
+Ideen für mein SQL-Programm suchen.
+
 ### Planung 30.10.2026
 
 
