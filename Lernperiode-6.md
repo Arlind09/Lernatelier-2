@@ -32,7 +32,7 @@ Ich fange in dieser Lernperiode mit dem SQL-Projekt an.
 ## Tagesplanungen
 
 
-### Planung 06.11.2026
+### Planung 23.10.2026
 
 
 - [x] SQL Studio herunterladen und einrichten
