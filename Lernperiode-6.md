@@ -64,14 +64,17 @@ Heute habe ich mich entschieden, dass ich einen Gymtracker für mich erstelle, d
 
 
 #### Tagesreflexion
-
+Heute habe ich meinen GymTracker gestartet und die Menüpunkte mit Polymorphie getestet.  
+Danach habe ich das Programm mit SQL Server verbunden und die Anzeige ausprobiert.  
+Dabei habe ich gemerkt, dass meine eingegebene Übung bisher nur in der Konsole angezeigt wurde.  
+Als Nächstes will ich zwei Übungen speichern und prüfen, ob sie nach einem Neustart noch da sind.
 
 ### Planung 20.11.2026
 
 
-- [ ] 
-- [ ] ...Ihr Text...
-- [ ] 
+- [ ] Übungen speichern. Den Menüpunkt «Übung hinzufügen» mit SQL verbinden und zwei Übungen über das Programm erfassen. Nach einem Neustart prüfen, ob beide angezeigt werden.
+- [ ] Eine der beiden Übungen über ihre ID löschen und prüfen, ob die andere weiterhin in der Liste steht.
+- [ ] Einen neuen Menüpunkt als eigene Klasse hinzufügen. Eine Übung auswählen, Gewicht und Wiederholungen eingeben und prüfen, ob der Satz in der Datenbank gespeichert wurde.
 
 
 #### Tagesreflexion
