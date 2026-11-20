@@ -72,9 +72,9 @@ Als Nächstes will ich zwei Übungen speichern und prüfen, ob sie nach einem Ne
 ### Planung 20.11.2026
 
 
-- [ ] Übungen speichern. Den Menüpunkt «Übung hinzufügen» mit SQL verbinden und zwei Übungen über das Programm erfassen. Nach einem Neustart prüfen, ob beide angezeigt werden.
-- [ ] Eine der beiden Übungen über ihre ID löschen und prüfen, ob die andere weiterhin in der Liste steht.
-- [ ] Einen neuen Menüpunkt als eigene Klasse hinzufügen. Eine Übung auswählen, Gewicht und Wiederholungen eingeben und prüfen, ob der Satz in der Datenbank gespeichert wurde.
+- [x] Übungen speichern. Den Menüpunkt «Übung hinzufügen» mit SQL verbinden und zwei Übungen über das Programm erfassen. Nach einem Neustart prüfen, ob beide angezeigt werden.
+- [x] Eine der beiden Übungen über ihre ID löschen und prüfen, ob die andere weiterhin in der Liste steht.
+- [x] Einen neuen Menüpunkt als eigene Klasse hinzufügen. Eine Übung auswählen, Gewicht und Wiederholungen eingeben und prüfen, ob der Satz in der Datenbank gespeichert wurde.
 
 
 #### Tagesreflexion
