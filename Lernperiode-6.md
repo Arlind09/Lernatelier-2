@@ -47,9 +47,9 @@ Ideen für mein SQL-Programm suchen.
 ### Planung 30.10.2026
 
 
-- [ ] Datenbank planen: Ich überlege mir 3 Tabellen mit jeweils mindestens 4 Spalten und ihren Beziehungen auf.
-- [ ] Datenbank erstellen: Ich erstelle die 3 Tabellen in SQL Server mit Primär- und Fremdschlüsseln
-- [ ] Datenbank ausprobieren: Ich erfasse passende Beispiele für jede Tabelle, für jede Tabelle mindestens 5 Beispiele.
+- [x] Datenbank planen: Ich überlege mir 3 Tabellen mit jeweils mindestens 4 Spalten und ihren Beziehungen auf.
+- [x] Datenbank erstellen: Ich erstelle die 3 Tabellen in SQL Server mit Primär- und Fremdschlüsseln
+- [x] Datenbank ausprobieren: Ich erfasse passende Beispiele für jede Tabelle, für jede Tabelle mindestens 5 Beispiele.
 
 
 #### Tagesreflexion
@@ -58,9 +58,9 @@ Heute habe ich mich entschieden, dass ich einen Gymtracker für mich erstelle, d
 ### Planung 06.11.2026
 
 
-- [ ] Grundgerüst fertigstellen: Den GymTracker fehlerfrei starten und prüfen, ob «Übung hinzufügen» und «Übungen anzeigen» durch Polymorphie die richtige Methode ausführen.
-- [ ] Datenbank verbinden: Eine Verbindung zwischen C# und der SQL-Datenbank GymTracker einrichten. Die vorhandenen Übungen im Programm auslesen und anzeigen.
-- [ ] Übungen erfassen und speichern: Name, Muskelgruppe und Maschine vom Nutzer eingeben lassen und speichern. Zwei Übungen erfassen und kontrollieren, ob sie nach einem Neustart weiterhin angezeigt werden.
+- [x] Grundgerüst fertigstellen: Den GymTracker fehlerfrei starten und prüfen, ob «Übung hinzufügen» und «Übungen anzeigen» durch Polymorphie die richtige Methode ausführen.
+- [x] Datenbank verbinden: Eine Verbindung zwischen C# und der SQL-Datenbank GymTracker einrichten. Die vorhandenen Übungen im Programm auslesen und anzeigen.
+- [x] Übungen erfassen und speichern: Name, Muskelgruppe und Maschine vom Nutzer eingeben lassen und speichern. Zwei Übungen erfassen und kontrollieren, ob sie nach einem Neustart weiterhin angezeigt werden.
 
 
 #### Tagesreflexion
