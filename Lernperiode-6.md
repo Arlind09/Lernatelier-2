@@ -78,14 +78,18 @@ Als Nächstes will ich zwei Übungen speichern und prüfen, ob sie nach einem Ne
 
 
 #### Tagesreflexion
-
+Heute habe ich mein Ziel erreicht: Die Übungen werden jetzt in der Datenbank gespeichert und sind nach einem Neustart noch da. Vorher musste ich noch zwei Fehler beheben, beim Anzeigen und beim Löschen. Danach habe ich einen Menüpunkt für Sätze und das Gym-Abchecken eingebaut, damit ich sehe, wie oft ich trainiert habe. Am Schluss habe ich mit den Splits angefangen und die drei neuen Tabellen selbst in SQL geschrieben. Dabei habe ich gelernt, wofür IDENTITY und CHECK gut sind. Nächstes Mal gebe ich den Push/Pull/Legs-Split mit INSERT ein und baue den Menüpunkt, um einen Plan auszuwählen.
 
 ### Planung 27.11.2026
 
 
-- [ ] 
-- [ ] ...Ihr Text...
-- [ ] 
+### Planung 27.11.2026
+
+- [ ] Push/Pull/Legs-Split eingeben: Den Plan, die 3 Tage und pro Tag mindestens 3 Übungen mit INSERT in die neuen Tabellen speichern. Mit einer JOIN-Abfrage prüfen, ob alle Übungen beim richtigen Tag stehen.
+
+- [ ] Menüpunkt «Plan auswählen» als eigene Klasse programmieren: Alle Pläne anzeigen, einen über die ID auswählen und seine Tage mit Übungen, Sätzen und Wiederholungen ausgeben. Mit Push/Pull/Legs und einer falschen ID testen.
+
+- [ ] Website vorbereiten: Ein Tutorial zu ASP.NET Core Web API anschauen und ein leeres Web-API-Projekt erstellen, das im Browser startet. Eine einfache HTML-Seite mit dem Titel «GymTracker» und einem Menü anzeigen.
 
 
 #### Tagesreflexion
