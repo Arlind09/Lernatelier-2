@@ -80,7 +80,7 @@ Als Nächstes will ich zwei Übungen speichern und prüfen, ob sie nach einem Ne
 #### Tagesreflexion
 
 
-### Planung 37.11.2026
+### Planung 27.11.2026
 
 
 - [ ] 
